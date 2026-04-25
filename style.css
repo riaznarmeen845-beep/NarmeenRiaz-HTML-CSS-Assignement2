@@ -1,0 +1,39 @@
+body {
+    background-color: #d8b384;
+    font-family: "Times New Roman";
+    margin: 20px;
+}
+
+#heading {
+    text-align: center;
+    color: darkblue;
+    font-size: 40px;
+}
+
+.card {
+    background-color: #f5f5dc;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+    box-shadow: 0 3px 8px gray;
+}
+
+.card h2 {
+    color: green;
+    font-size: 32px;
+}
+
+.card p, .card ul {
+    font-size: 22px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid black;
+}
+
+a {
+    color: blue;
+    font-size: 24px;
+}
